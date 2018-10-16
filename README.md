@@ -6,4 +6,4 @@ My high score is 2,800, you can try and beat me if you can.</i>
 
 <code> python Dudge_Game.py </code> to run
 
-#Thank you
+# Thank you
